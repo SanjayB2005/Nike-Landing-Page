@@ -45,6 +45,7 @@ const [bigShoeImg, setBigShoeImg] = useState(bigShoe1)
       </div>
 
     </section>
+    
   )
 }
 
